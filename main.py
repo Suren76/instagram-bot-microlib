@@ -1,7 +1,7 @@
 from basebot import *
 
-username = "street_work.out"
-password = "-_qwerty7890"
+username = "username"
+password = "********"
 
 user = InstagramBot(username, password)
 sleep(5)
